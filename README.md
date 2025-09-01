@@ -1,5 +1,5 @@
-Desigualdade Racial no Brasil
+Desigualdade Racial no Brasil: Uma Análise de Dados
 
-1. Descrição
+Após a abolição da escravidão em 1888, uma crença comum na sociedade brasileira é a de que as desigualdades raciais foram superadas. Mas será que isso é verdade? Este projeto foi desenvolvido para investigar essa questão de forma direta e simples.
 
-Esse projeto tem como finalidade responder a pergunta "ainda existe diferença entre os grupos étinicos-raciais de brancos e negros no Brasil?". Nos tempos atuais é muito comum escutar que o racismo não existe mais ou que sua proporção diminuiu muito, que toda essa diferença acabou em 1888 com a abolição da escravidão por meio da lei Áurea, porém por meio do senso comum da própia sociedade ainda existem dúvidas referentes a esse assunto e o intuito desse projeto é sanar essa dúvida de forma direta e simples, buscando argumentos na economia e na educação atual visando responder esse questionamento.
+Utilizando dados atuais das áreas de economia e educação, o objetivo é apresentar evidências concretas que respondam a uma das perguntas mais importantes do nosso tempo: "Ainda existem diferenças significativas entre os grupos raciais de brancos e negros no Brasil?"
