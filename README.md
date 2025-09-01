@@ -4,4 +4,5 @@ Após a abolição da escravidão em 1888, uma crença comum na sociedade brasil
 
 Utilizando dados atuais das áreas de economia e educação, o objetivo é apresentar evidências concretas que respondam a uma das perguntas mais importantes do nosso tempo: "Ainda existem diferenças significativas entre os grupos raciais de brancos e negros no Brasil?"
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/56fe1506-4220-47fb-acfd-1a52eddbc17a" />
+<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/e4539cff-988b-4645-8a05-61a987eab984" />
+
