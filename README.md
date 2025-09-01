@@ -41,4 +41,6 @@ Censo Demográfico 1872 - IBGE
 
 Censo Escolar 2024 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
 
+# 9. SQL Queries Utilizadas
+Todas as consultas SQL utilizadas na análise estão disponíveis no diretório queries/. Você pode encontrar o código completo no arquivo analise_desigualdade_racial.sql.
 
