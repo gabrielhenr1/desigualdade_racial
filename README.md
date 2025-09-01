@@ -33,6 +33,12 @@ Educação: A análise do cenário educacional também revela uma desigualdade a
 
 Com base nos dados econômicos e educacionais analisados, a conclusão é que, sim, ainda existem diferenças significativas entre os grupos raciais de brancos e negros no Brasil. Embora a escravidão tenha sido abolida há mais de um século, as desigualdades estruturais permanecem e podem ser observadas nas disparidades de renda e educação.
 
+# 7. Referência dos dados usados
 
+Censo Demográfico 2022 - Instituto Brasileiro de Geografia e Estatística (IBGE)
+
+Censo Demográfico 1872 - IBGE
+
+Censo Escolar 2024 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
 
 
