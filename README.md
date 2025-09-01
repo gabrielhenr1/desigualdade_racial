@@ -28,4 +28,10 @@ Economia: Os dados demonstram uma enorme e persistente desigualdade econômica e
 
 Educação: A análise do cenário educacional também revela uma desigualdade alarmante. As disparidades são visíveis em indicadores como o acesso ao ensino superior, a taxa de conclusão de estudos e o nível de escolaridade, refletindo um cenário que perpetua as desigualdades sociais e econômicas
 
+# 6. Conclusão
+
+Com base nos dados econômicos e educacionais analisados, a conclusão é que, sim, ainda existem diferenças significativas entre os grupos raciais de brancos e negros no Brasil. Embora a escravidão tenha sido abolida há mais de um século, as desigualdades estruturais permanecem e podem ser observadas nas disparidades de renda e educação.
+
+
+
 
